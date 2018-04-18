@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{18E66C7C-021D-494C-9140-2F7A5F63F309}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database/Program.cs">
+    <Files>
+      <File FileName="Database/Program.cs" Line="10" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Database" expanded="True">
+            <Node name="Database" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="System.Data.dll" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Database PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
